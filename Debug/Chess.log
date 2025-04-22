@@ -1,0 +1,162 @@
+﻿  Source.cpp
+C:\Users\Nicolas\source\repos\Chess\External\include\SFML\System\Exception.hpp(41,47): warning C4275: non dll-interface class 'std::runtime_error' used as base for dll-interface class 'sf::Exception'
+  (compiling source file 'Source.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.43.34808\include\stdexcept(100,19):
+      see declaration of 'std::runtime_error'
+      C:\Users\Nicolas\source\repos\Chess\External\include\SFML\System\Exception.hpp(41,23):
+      see declaration of 'sf::Exception'
+  
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(68,24): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(70,20): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(884,59): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(886,56): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(886,56): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(886,56): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(886,56): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(886,56): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(888,56): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(888,56): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(888,56): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(888,56): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(888,56): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(982,59): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(984,56): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(984,56): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(984,56): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(984,56): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(984,56): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(986,56): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(986,56): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(986,56): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(986,56): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(986,56): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1052,73): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1052,73): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1052,73): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1052,73): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1052,73): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1054,73): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1054,73): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1054,73): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1054,73): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1054,73): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1125,59): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1127,56): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1127,56): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1127,56): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1127,56): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1127,56): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1129,56): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1129,56): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1129,56): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1129,56): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1129,56): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1195,72): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1195,72): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1195,72): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1195,72): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1195,72): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1197,72): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1197,72): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1197,72): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1197,72): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1197,72): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1527,59): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1529,56): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1529,56): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1529,56): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1529,56): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1529,56): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1531,56): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1531,56): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1531,56): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1531,56): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1531,56): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1648,59): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1650,56): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1650,56): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1650,56): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1650,56): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1650,56): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1652,56): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1652,56): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1652,56): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1652,56): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(1652,56): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2208,59): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2210,56): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2210,56): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2210,56): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2210,56): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2210,56): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2212,56): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2212,56): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2212,56): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2212,56): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2212,56): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2304,59): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2306,56): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2306,56): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2306,56): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2306,56): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2306,56): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2308,56): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2308,56): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2308,56): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2308,56): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2308,56): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2370,73): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2370,73): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2370,73): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2370,73): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2370,73): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2372,73): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2372,73): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2372,73): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2372,73): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2372,73): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2440,59): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2442,56): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2442,56): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2442,56): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2442,56): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2442,56): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2444,56): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2444,56): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2444,56): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2444,56): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2444,56): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2506,72): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2506,72): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2506,72): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2506,72): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2506,72): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2508,72): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2508,72): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2508,72): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2508,72): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2508,72): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2832,59): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2834,56): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2834,56): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2834,56): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2834,56): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2834,56): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2836,56): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2836,56): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2836,56): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2836,56): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2836,56): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2952,59): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2954,56): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2954,56): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2954,56): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2954,56): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2954,56): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2956,56): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2956,56): warning C4244:         with
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2956,56): warning C4244:         [
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2956,56): warning C4244:             T=float
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(2956,56): warning C4244:         ]
+C:\Users\Nicolas\source\repos\Chess\Chess\Source.cpp(3142,27): warning C4018: '<': signed/unsigned mismatch
+  Chess.vcxproj -> C:\Users\Nicolas\source\repos\Chess\Debug\Chess.exe
