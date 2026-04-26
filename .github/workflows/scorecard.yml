@@ -4,21 +4,20 @@ on:
   push:
     branches: [ "main" ]
   schedule:
-    - cron: '0 0 * * 1'
-
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+    - cron: '0 0 * * 1'  # every Monday
 
 permissions:
   contents: read
-  security-events: write
-  id-token: write
-  actions: read
 
 jobs:
   analysis:
     name: Scorecard analysis
     runs-on: ubuntu-latest
+
+    permissions:
+      security-events: write
+      id-token: write
+      contents: read
 
     steps:
       - name: Checkout code
@@ -30,3 +29,9 @@ jobs:
           results_file: results.sarif
           results_format: sarif
           publish_results: true
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload SARIF results
+        uses: github/codeql-action/upload-sarif@v3
+        with:
+          sarif_file: results.sarif
