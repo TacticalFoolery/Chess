@@ -27,3 +27,4 @@ Make sure the following files are in the `Img/` folder:
 This project uses OpenSSF Scorecard to analyze security practices.
 
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/TacticalFoolery/Chess/badge)](https://scorecard.dev/viewer/?uri=github.com/TacticalFoolery/Chess)
+[![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12660/badge)](https://www.bestpractices.dev/projects/12660)
